@@ -1,0 +1,9 @@
+C:\Users\Luis Alberto Carrizo\source\repos\ClienteRabbit\bin\Debug\netcoreapp3.1\ClienteRabbit.deps.json
+C:\Users\Luis Alberto Carrizo\source\repos\ClienteRabbit\bin\Debug\netcoreapp3.1\ClienteRabbit.dll
+C:\Users\Luis Alberto Carrizo\source\repos\ClienteRabbit\obj\Debug\netcoreapp3.1\ClienteRabbit.AssemblyInfoInputs.cache
+C:\Users\Luis Alberto Carrizo\source\repos\ClienteRabbit\obj\Debug\netcoreapp3.1\ClienteRabbit.AssemblyInfo.cs
+C:\Users\Luis Alberto Carrizo\source\repos\ClienteRabbit\obj\Debug\netcoreapp3.1\ClienteRabbit.csprojAssemblyReference.cache
+C:\Users\Luis Alberto Carrizo\source\repos\ClienteRabbit\bin\Debug\netcoreapp3.1\ClienteRabbit.pdb
+C:\Users\Luis Alberto Carrizo\source\repos\ClienteRabbit\obj\Debug\netcoreapp3.1\ClienteRabbit.csproj.CoreCompileInputs.cache
+C:\Users\Luis Alberto Carrizo\source\repos\ClienteRabbit\obj\Debug\netcoreapp3.1\ClienteRabbit.dll
+C:\Users\Luis Alberto Carrizo\source\repos\ClienteRabbit\obj\Debug\netcoreapp3.1\ClienteRabbit.pdb

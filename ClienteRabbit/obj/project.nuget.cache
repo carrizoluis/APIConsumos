@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "r1JF6HU03O+qOeHPRZ8hiTwNvcbRO9MCWn8056wn1KrZRIhkg7zA8v9FIjQYDpZcR6XQ5lA1JqkdaefiAYSW5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Luis Alberto Carrizo\\source\\repos\\APIConsumos\\ClienteRabbit\\ClienteRabbit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luis Alberto Carrizo\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Luis Alberto Carrizo\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\Luis Alberto Carrizo\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Luis Alberto Carrizo\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
